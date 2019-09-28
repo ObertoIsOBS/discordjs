@@ -1,4 +1,4 @@
-# My Discord Documentation (Made Easy)
+# Starting with Discord.js
 This is the documentation for my Discord Bot.
 After lots of expireience I have found alot about Discord.js.
 The modules I use in this bot you can find in the index.js file.
